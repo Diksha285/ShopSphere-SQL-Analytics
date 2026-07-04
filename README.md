@@ -6,11 +6,6 @@
 
 A complete SQL project that simulates a real-world e-commerce platform using MySQL. The project covers database design, relational modeling, advanced SQL queries, business analysis, views, stored procedures, triggers, and indexes.
 
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge)
-![Database](https://img.shields.io/badge/Database-Relational-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
-
 </div>
 
 ---
@@ -157,15 +152,15 @@ ShopSphere-SQL-Analytics
 │
 ├── Dataset
 │   ├── customers.csv
-│   ├── sellers.csv
-│   ├── categories.csv
-│   ├── products.csv
-│   ├── inventory.csv
-│   ├── orders.csv
+│   ├── sellers_50.csv
+│   ├── categories_20.csv
+│   ├── products_300.csv
+│   ├── inventory_300.csv
+│   ├── orders_3000.csv
 │   ├── order_items.csv
-│   ├── payments.csv
-│   ├── shipping.csv
-│   └── reviews.csv
+│   ├── payments_3000.csv
+│   ├── shipping_3000.csv
+│   └── reviews_1500.csv
 │
 ├── SQL_Scripts
 │   ├── 01_Database_Schema.sql
@@ -181,8 +176,6 @@ ShopSphere-SQL-Analytics
 ├── ER_Diagram
 │   ├── ShopSphere_ER_Diagram.png
 │   └── ShopSphere.mwb
-│
-├── Documentation
 │
 └── README.md
 ```
@@ -244,10 +237,12 @@ This project helped strengthen practical knowledge of:
 
 ---
 
-# Author
+# Author & Contact 
 
 ### Diksha
 
 **Aspiring Data Analyst | SQL Developer**
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-285diksha@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/diksha-kumari-985365377/))   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://your-portfolio-link.com](https://lighthearted-alpaca-f46d02.netlify.app/))
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
